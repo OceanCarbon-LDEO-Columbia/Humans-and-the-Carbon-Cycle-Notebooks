@@ -1,11 +1,14 @@
 # Humans-and-the-Carbon-Cycle-Notebooks
 Python notebooks for the Columbia course "Humans and the Carbon Cycle", Fall 2024
 
-# Folders
-"In Development" is notebooks for future homework assignments.
-"Misc" is data pre-processing (students don't need to look at this!)
-"Data" is data loaded into Python notebooks.
+## To download repo
+Click the green "code" button above, and press "download zip". Done!
+Just drag and drop the folder to your Jupyterhub.
 
+## Folders
+"In Development" is notebooks for future homework assignments. **(students, no need to look at this)**
+"Misc" is data pre-processing **(students, no need to look at this)**
+"Data" is data loaded into Python notebooks.
 
 ## **Data sources**
 
