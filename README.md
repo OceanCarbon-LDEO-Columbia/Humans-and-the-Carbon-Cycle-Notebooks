@@ -5,8 +5,8 @@ Python notebooks for the Columbia course "Humans and the Carbon Cycle", Fall 202
 - Click the green "code" button above, and press "download zip".
 - Drag and drop the folder to your Jupyterhub.
 - Open a terminal window, and enter the following command: unzip Humans-and-the-Carbon-Cycle-Notebooks-main.zip
-- Return to the GUI on the left to navigate into the folder Humans-and-the-Carbon-Cycle-Notebooks-main, and open plot_explore_GCB.ipynb
-
+- Return to the GUI on the left to navigate into the folder Humans-and-the-Carbon-Cycle-Notebooks-main, and open the desired notebook
+  
 ## Folders
 - "in_development" is notebooks for future homework assignments. **(students, no need to look at this)**
 - "misc" is data pre-processing **(students, no need to look at this)**
