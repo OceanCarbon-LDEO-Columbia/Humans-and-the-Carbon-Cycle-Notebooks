@@ -3,8 +3,15 @@ Python notebooks for the Columbia course "Humans and the Carbon Cycle", Fall 202
 
 ## To download repo
 - Click the green "code" button above, and press "download zip".
-- Drag and drop the folder to your Jupyterhub.
-- Open a terminal window, and enter the following command: unzip Humans-and-the-Carbon-Cycle-Notebooks-main.zip
+- Drag and drop the .zip file to your Jupyterhub.
+- In Jupyterhub, make a new notebook.
+- In it, paste the following:\
+\
+    import zipfile as zf\
+    files = zf.ZipFile("/home/jovyan/Humans-and-the-Carbon-Cycle-Notebooks-Main.zip", 'r')\
+    files.extractall()\
+    files.close()
+
 - Return to the GUI on the left to navigate into the folder Humans-and-the-Carbon-Cycle-Notebooks-main, and open the desired notebook
   
 ## Folders
