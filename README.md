@@ -29,7 +29,7 @@ Python notebooks for the Columbia course "Humans and the Carbon Cycle", Fall 202
 - Run seawater carbon calculations
 
 **Notebook 3: future-carbon-sinks-HCC2024.ipynb**
-- Betas and alpha: The Sixth Assessment Report of the United Nations Intergovernmental Panel on Climate Change (IPCC AR6), Chapter 5 at _**https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_Chapter05.pdf**_
--     Driver data have been downloaded for you (in data) Shared Socioeconomic Pathways (SSP) Temperature and Atmospheric CO2 Data: _**https://live.magicc.org/scenarios**_ (requires making an account. Click on a scenario, then click the download button.)
+- Betas and alpha: The Sixth Assessment Report of the United Nations Intergovernmental Panel on Climate Change (IPCC AR6), Chapter 5 at **https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_Chapter05.pdf**
+- Driver data have been downloaded for you (in data) Shared Socioeconomic Pathways (SSP) Temperature and Atmospheric CO2 Data: **https://live.magicc.org/scenarios**_ (requires making an account. Click on a scenario, then click the download button.)
 
 - Calculate the future land and ocean sinks based on these factors and the future SSP scenarios
