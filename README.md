@@ -28,10 +28,10 @@ Python notebooks for the Columbia course "Humans and the Carbon Cycle", Fall 202
 - Data from the Global Carbon Budget: **Global_Carbon_Budget_2025_v1.0.xlsx** at **https://essd.copernicus.org/articles/18/3211/2026/**,
 - Data source for CO2 mole fraction (ppm) measured monthly at Mauna Loa since 1958: **https://gml.noaa.gov/webdata/ccgg/trends/co2/co2_mm_mlo.csv**
 
-# in updatesTBD for now
+# in /updatesTBD/ for now
 **Notebook 2: PS2_carbon_chemistry_student.ipynb, 2024 version**
 - Run seawater carbon calculations
-- 
+  
 **Notebook 3: future-carbon-sinks-HCC2024.ipynb, 2024 version**
 - Betas and alpha: The Sixth Assessment Report of the United Nations Intergovernmental Panel on Climate Change (IPCC AR6), Chapter 5 at **https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_Chapter05.pdf**
 - Driver data have been downloaded for you (in data) Shared Socioeconomic Pathways (SSP) Temperature and Atmospheric CO2 Data: **https://live.magicc.org/scenarios**_ (requires making an account. Click on a scenario, then click the download button.)
