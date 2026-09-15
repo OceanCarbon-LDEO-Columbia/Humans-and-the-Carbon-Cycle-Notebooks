@@ -1,7 +1,10 @@
 # Humans-and-the-Carbon-Cycle-Notebooks
-Python notebooks for the Columbia course "Humans and the Carbon Cycle", Fall 2024
+Python notebooks for the Columbia course "Humans and the Carbon Cycle", Fall 2026
 
-## To download repo
+# If you are familiar with Github
+- please Github to access these files and update them when new notebooks are posted
+
+## You can also download the repo and upload manually to LEAP
 - Click the green "code" button above, and press "download zip".
 - Drag and drop the .zip file to your Jupyterhub. Place in in your home directory.
 - In Jupyterhub, make a new notebook.
@@ -13,22 +16,21 @@ Python notebooks for the Columbia course "Humans and the Carbon Cycle", Fall 202
     files.close()
 
 - Return to the GUI on the left to navigate into the folder Humans-and-the-Carbon-Cycle-Notebooks-main, and open the desired notebook
+- When new notebooks are posted, you can either download them individually or re-download/upload the repo. 
   
 ## Folders
-- "in_development" is notebooks for future homework assignments. **(students, no need to look at this)**
 - "misc" is data pre-processing **(students, no need to look at this)**
-- "data" is data loaded into Python notebooks.
+- "data" is data required for the Python notebooks.
 
 ## **Data sources**
 
-**Notebook 1: plot_explore_GCB.ipynb**
-- Data from the Global Carbon Budget: **Global_Carbon_Budget_2023v1.0.xlsx** at **_https://essd.copernicus.org/articles/15/5301/2023/_**, spreadsheet page: **HistoricalBudget**
+**Notebook 1: plot_explore_GCB.ipynb, updated for 2026**
+- Data from the Global Carbon Budget: **Global_Carbon_Budget_2025_v1.0.xlsx** at **https://essd.copernicus.org/articles/18/3211/2026/**,
 - Data source for CO2 mole fraction (ppm) measured monthly at Mauna Loa since 1958: **https://gml.noaa.gov/webdata/ccgg/trends/co2/co2_mm_mlo.csv**
 
-**Notebook 2: PS2_carbon_chemistry_student.ipynb**
+**Notebook 2: PS2_carbon_chemistry_student.ipynb, 2024 version**
 - Run seawater carbon calculations
-
-**Notebook 3: future-carbon-sinks-HCC2024.ipynb**
+**Notebook 3: future-carbon-sinks-HCC2024.ipynb, 2024 version**
 - Betas and alpha: The Sixth Assessment Report of the United Nations Intergovernmental Panel on Climate Change (IPCC AR6), Chapter 5 at **https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_Chapter05.pdf**
 - Driver data have been downloaded for you (in data) Shared Socioeconomic Pathways (SSP) Temperature and Atmospheric CO2 Data: **https://live.magicc.org/scenarios**_ (requires making an account. Click on a scenario, then click the download button.)
 
