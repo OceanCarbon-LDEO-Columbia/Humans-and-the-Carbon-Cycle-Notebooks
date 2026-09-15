@@ -25,7 +25,7 @@ Python notebooks for the Columbia course "Humans and the Carbon Cycle", Fall 202
 ## **Data sources**
 
 **Notebook 1: plot_explore_GCB.ipynb, updated for 2026**
-- Data from the Global Carbon Budget: **Global_Carbon_Budget_2025_v1.0.xlsx** at **https://essd.copernicus.org/articles/18/3211/2026/**, spreadsheet page: **HistoricalBudget**
+- Data from the Global Carbon Budget: **Global_Carbon_Budget_2025_v1.0.xlsx** at **https://essd.copernicus.org/articles/18/3211/2026/**,
 - Data source for CO2 mole fraction (ppm) measured monthly at Mauna Loa since 1958: **https://gml.noaa.gov/webdata/ccgg/trends/co2/co2_mm_mlo.csv**
 
 **Notebook 2: PS2_carbon_chemistry_student.ipynb, 2024 version**
