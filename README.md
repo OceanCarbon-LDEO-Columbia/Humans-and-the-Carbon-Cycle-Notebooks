@@ -16,7 +16,7 @@ Python notebooks for the Columbia course "Humans and the Carbon Cycle", Fall 202
     files.close()
 
 - Return to the GUI on the left to navigate into the folder Humans-and-the-Carbon-Cycle-Notebooks-main, and open the desired notebook
-- When new notebooks are posted, you can either download those individually or re-download the whole repo. These are not very large files. 
+- When new notebooks are posted, you can either download those individually or re-download the whole repo (because the files are small). 
   
 ## Folders
 - "misc" is data pre-processing **(students, no need to look at this)**
