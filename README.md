@@ -2,7 +2,7 @@
 Python notebooks for the Columbia course "Humans and the Carbon Cycle", Fall 2026
 
 # If you are familiar with Github
-- please Github to access these files and update them when new notebooks are posted
+- please use Github to access these files and update them when new notebooks are posted
 
 ## You can also download the repo and upload manually to LEAP
 - Click the green "code" button above, and press "download zip"; which downloads a folder
